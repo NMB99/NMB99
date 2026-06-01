@@ -8,7 +8,7 @@
 
 - 🎓 MSc Computer Science - University of Bristol
 - 💼 Former System Engineer at Infosys - now transitioning into Java backend development
-- 🔨 Currently building TeamSync - a standup automation backend with Spring Boot, JWT and PostgreSQL
+- 🔨 Built TeamSync - a standup automation backend with Spring Boot, JWT and PostgreSQL
 - 📈 Practicing DSA daily and deepening Java backend knowledge
 - 🇬🇧 Based in UK · No sponsorship needed
 - 📫 nilay.bhaisare@gmail.com
