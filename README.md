@@ -23,8 +23,8 @@ JWT authentication with Redis-backed token blacklisting, 4-tier role-based acces
 
 ## 👨‍💻 About me
 
-- 🎓 MSc Computer Science — University of Bristol
-- 💼 2.5 years enterprise experience — Infosys (System Engineer)
+- 🎓 MSc Computer Science - University of Bristol
+- 💼 2.5 years enterprise experience - Infosys (System Engineer)
 - 🇬🇧 UK-based · Full work rights until 2028, no sponsorship needed · Available immediately
 - 📫 nilay.bhaisare@gmail.com
 
