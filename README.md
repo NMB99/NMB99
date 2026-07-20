@@ -2,7 +2,7 @@
 
 # Hey, I'm Nilay 👋
 
-### Graduate Java Backend Developer
+### Graduate Software Engineer
 
 </div>
 
